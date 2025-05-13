@@ -1,6 +1,6 @@
 # Tarea - A Simple Task Management Web App
 
-**Live Demo:** [Link to your deployed Netlify site will go here once deployed]
+**Live Demo:** https://tarea-app.netlify.app/
 
 **Tarea** is a **simple task management web app** built with React and Create React App. It aims to help users organize their daily tasks efficiently with a clean, responsive interface. This project serves as **my first major React project** and a way to practice modern frontend development using React and component-based architecture.
 
